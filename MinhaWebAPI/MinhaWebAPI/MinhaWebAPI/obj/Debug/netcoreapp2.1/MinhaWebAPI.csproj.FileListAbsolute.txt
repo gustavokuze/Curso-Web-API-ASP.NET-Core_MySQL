@@ -1,0 +1,14 @@
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.deps.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.runtimeconfig.dev.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csprojAssemblyReference.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorAssemblyInfo.cs
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfoInputs.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.AssemblyInfo.cs
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\MinhaWebAPI.pdb
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.dll
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaWebAPI\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\MinhaWebAPI.pdb

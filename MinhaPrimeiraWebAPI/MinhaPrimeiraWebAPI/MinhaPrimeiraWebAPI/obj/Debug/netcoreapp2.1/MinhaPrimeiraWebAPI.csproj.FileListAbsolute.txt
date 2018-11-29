@@ -1,0 +1,14 @@
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\bin\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.deps.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\bin\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.runtimeconfig.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\bin\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.runtimeconfig.dev.json
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\bin\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.dll
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\bin\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.pdb
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.csprojAssemblyReference.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.RazorAssemblyInfo.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.RazorAssemblyInfo.cs
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.AssemblyInfoInputs.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.AssemblyInfo.cs
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.dll
+C:\Users\gustavo.silva\Documents\GIT\Curso Web API ASP.NET Core_MySQL\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\MinhaPrimeiraWebAPI\obj\Debug\netcoreapp2.1\MinhaPrimeiraWebAPI.pdb
