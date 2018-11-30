@@ -1,5 +1,7 @@
-﻿using System;
+﻿using MinhaWebAPI.Util;
+using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -22,5 +24,36 @@ namespace MinhaWebAPI.Models
         public string Complemento { get; set; } 
         public string Cidade { get; set; }
         public string Uf { get; set; }
+
+        public void RegistrarCliente()
+        {
+            DAL dal = new DAL();
+            string sql = $"INSERT INTO cliente (nome, data_cadastro, cpf_cnpj, data_nascimento, tipo, telefone, email, cep, logradouro, numero, bairro, complemento, cidade, uf) VALUES('{Nome}', '{Data_cadastro}', '{Cpf_cnpj}', '{Data_nascimento}', '{Tipo}','{Telefone}', '{Email}', '{Cep}', '{Logradouro}', '{Numero}', '{Bairro}','{Complemento}', '{Cidade}', '{Uf}'); ";
+
+            dal.ExecutarComando(sql);
+        }
+
+        public List<ClienteModel> ListarClientes()
+        {
+            var lista = new List<ClienteModel>();
+
+            ClienteModel cliente;
+
+
+            DAL dal = new DAL();
+
+            string sql = "SELECT * FROM cliente ORDER BY Nome";
+
+            DataTable dados = dal.RetornarDados(sql);
+
+            for (int i = 0; i < dados.Rows.Count; i++)
+            {
+                cliente = new ClienteModel()
+                {
+                    Id = Convert.ToInt32(dados.Rows[i]["Id"].ToString()),
+                };
+            }
+
+        }
     }
 }

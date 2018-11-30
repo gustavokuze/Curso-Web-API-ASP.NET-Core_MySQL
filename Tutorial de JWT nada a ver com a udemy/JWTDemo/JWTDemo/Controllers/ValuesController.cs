@@ -2,22 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using MinhaWebAPI.Models;
-using MinhaWebAPI.Util;
 
-namespace MinhaWebAPI.Controllers
+namespace JWTDemo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ClienteController : ControllerBase
+    [Authorize]
+    public class ValuesController : ControllerBase
     {
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            
-
             return new string[] { "value1", "value2" };
         }
 
@@ -25,25 +23,13 @@ namespace MinhaWebAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            DAL dal = new DAL();
-            var dados = dal.RetornarDados($"Select * from cliente WHERE id={id}");
-            return dados.Rows[0]["Nome"].ToString();
+            return "value";
         }
 
         // POST api/values
         [HttpPost]
-        [Route("RegistrarCliente")]
-        public string RegistrarCliente([FromBody] ClienteModel dados)
+        public void Post([FromBody] string value)
         {
-            try
-            {
-                dados.RegistrarCliente();
-                return "Cliente registrado com sucesso!";
-            }
-            catch (Exception ex)
-            {
-                return $"Ocorreu o seguinte erro ao tentar registrar o cliente: { ex.Message }";
-            }
         }
 
         // PUT api/values/5
