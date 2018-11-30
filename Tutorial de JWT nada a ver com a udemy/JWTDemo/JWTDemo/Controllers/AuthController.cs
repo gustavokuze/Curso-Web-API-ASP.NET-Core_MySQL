@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
@@ -24,12 +25,18 @@ namespace JWTDemo.Controllers
             // signing credentials
             var signingCred = new SigningCredentials(symmKey, SecurityAlgorithms.HmacSha256Signature);
 
+            // claims
+            var claims = new List<Claim>();
+            claims.Add(new Claim(ClaimTypes.Role, "Administrator"));
+            claims.Add(new Claim("our_custom_claim", "our_custom_claim_value") );
+
             //create token
             var token = new JwtSecurityToken(
-                    issuer: "gks",
+                    issuer: "gks", 
                     audience: "readers",
                     expires: DateTime.Now.AddHours(1),
-                    signingCredentials: signingCred 
+                    signingCredentials: signingCred ,
+                    claims: claims
                 );
 
             //return token

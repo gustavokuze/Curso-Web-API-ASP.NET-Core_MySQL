@@ -9,7 +9,7 @@ namespace JWTDemo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize(Roles = "Administrator")]
     public class ValuesController : ControllerBase
     {
         // GET api/values
